@@ -1,0 +1,33 @@
+﻿Tên,Trạng thái,subject
+Server-side Template Injection (SSTI),Chưa bắt đầu,Advanced
+Essential skills,Chưa bắt đầu,Advanced
+JWT attacks,Chưa bắt đầu,Advanced
+OAuth authentication,Chưa bắt đầu,Advanced
+HTTP request smuggling,Chưa bắt đầu,Advanced
+HTTP Host header attacks,Chưa bắt đầu,Advanced
+Web cache poisoning,Chưa bắt đầu,Advanced
+Insecure deserialization,Chưa bắt đầu,Advanced
+DOM-based vulnerabilities,Chưa bắt đầu,Client-side
+Cross-site scripting (XSS),Chưa bắt đầu,Client-side
+XXE injection,Chưa bắt đầu,Server-side
+Access control,Chưa bắt đầu,Server-side
+Information disclosure,Chưa bắt đầu,Server-side
+Business logic vulnerabilities,Chưa bắt đầu,Server-side
+OS command injection,Chưa bắt đầu,Server-side
+Web LLM attacks,Chưa bắt đầu,Advanced
+File upload vulnerabilities,Hoàn tất,Server-side
+Cross-site request forgery (CSRF),Chưa bắt đầu,Client-side
+Race conditions,Chưa bắt đầu,Server-side
+NoSQL injection,Chưa bắt đầu,Server-side
+Path traversal,Chưa bắt đầu,Server-side
+Cross-origin resource sharing (CORS),Chưa bắt đầu,Client-side
+GraphQL API vulnerabilities,Chưa bắt đầu,Advanced
+Clickjacking (UI redressing),Chưa bắt đầu,Client-side
+Prototype pollution,Chưa bắt đầu,Advanced
+Server-side request forgery (SSRF),Chưa bắt đầu,Server-side
+Authentication vulnerabilities,Chưa bắt đầu,Server-side
+WebSockets vulnerabilities,Chưa bắt đầu,Client-side
+Web cache deception,Chưa bắt đầu,Server-side
+API testing,Chưa bắt đầu,Server-side
+Server-side vulnerabilities,Chưa bắt đầu,Advanced
+SQL Injection,Đang thực hiện,Server-side
