@@ -4,4 +4,4 @@
 
  
 
-![image.png](Lab%20File%20path%20traversal,%20traversal%20sequences%20strip/image.png)
+![image.png](Lab%20File%20path%20traversal%2C%20traversal%20sequences%20strip/image.png)
