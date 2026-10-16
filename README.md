@@ -1,6 +1,6 @@
 # PORTSWIGGER
 
-[LÝ THUYẾT](PortSwigger/L%C3%9D%20THUY%E1%BA%BET.csv)
+[LÝ THUYẾT](PortSwigger/LÝ%20THUYẾT.md)
 
 [FILE UPLOAD VULNERABILITIES](PortSwigger/File%20Upload%20Vulnerabilities.md)
 
