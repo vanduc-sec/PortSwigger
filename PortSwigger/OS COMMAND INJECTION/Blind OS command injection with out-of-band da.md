@@ -1,4 +1,4 @@
-# Lab: Blind OS command injection with out-of-band data exfiltration
+# Blind OS command injection with out-of-band data exfiltration
 
 Đối với lab này thì mình thấy gần thư lab trước thôi nó chỉ thêm là chúng ta sẽ phải thêm lệnh kèm theo nên mình làm nhanh luon bỏ qua các bước check ban đầu
 
