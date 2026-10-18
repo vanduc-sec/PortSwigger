@@ -10,4 +10,4 @@
 
 [**Blind OS command injection with out-of-band interaction**](OS%20COMMAND%20INJECTION/Blind%20OS%20command%20injection%20with%20out-of-band%20intera.md)
 
-[**Lab: Blind OS command injection with out-of-band data exfiltration**](OS%20COMMAND%20INJECTION/Lab%20Blind%20OS%20command%20injection%20with%20out-of-band%20da.md)
+[**Blind OS command injection with out-of-band data exfiltration**](OS%20COMMAND%20INJECTION/Blind%20OS%20command%20injection%20with%20out-of-band%20da.md)
